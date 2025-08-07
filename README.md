@@ -1,0 +1,2 @@
+# DS_Intelligent-Defect-Detection-on-Solar-Panels-using-DeepLearning
+Defect Detection on Solar Panels harnesses the power of deep learning to revolutionize solar panel maintenance. By accurately classifying and detecting surface defects like dust, bird droppings, and physical damage, it enables smart, automated inspections that save time and costs maximizing solar energy output and operational efficiency.
